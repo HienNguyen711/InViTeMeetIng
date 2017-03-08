@@ -1,0 +1,12 @@
+<script src="https://www.gstatic.com/firebasejs/3.7.0/firebase.js"></script>
+<script>
+  // Initialize Firebase
+  var config = {
+    apiKey: "AIzaSyB5ETDFQV0A_aeOaKmqlqBoOy32BeJjNh8",
+    authDomain: "invitemeeting-7299b.firebaseapp.com",
+    databaseURL: "https://invitemeeting-7299b.firebaseio.com",
+    storageBucket: "invitemeeting-7299b.appspot.com",
+    messagingSenderId: "767072914211"
+  };
+  firebase.initializeApp(config);
+</script>
