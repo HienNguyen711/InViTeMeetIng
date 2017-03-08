@@ -1,0 +1,18 @@
+{
+  "agenda" : "Tech meeting for the best dev ever ",
+  "guests" : {
+    "-KUDHLoA79LzYXsXLNZM" : {
+      "name" : "Marie Curie"
+    },
+    "-KUDHPgsYqOVcC-Db7-W" : {
+      "name" : "Bill Gates"
+    },
+    "-KUDHS9kUXPYWN8aqD6A" : {
+      "name" : "Mark Zuckerberg"
+    },
+    "-KUDHW9EmNahoyjdwJdf" : {
+      "name" : "Elon Musk"
+    }
+  },
+  "host" : "Hien Nguyen"
+}
